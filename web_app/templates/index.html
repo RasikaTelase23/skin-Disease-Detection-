@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Skin Disease Detector - AI Powered Diagnosis</title>
+      <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+      <div class="container">
+            <header>
+                  <h1>🔬 Skin Disease Detector</h1>
+                  <p class="subtitle">AI-Powered Dermatology Assistant</p>
+            </header>
+
+            <div class="upload-section">
+                  <div class="upload-box" id="uploadBox">
+                        <div class="upload-icon">📷</div>
+                        <h2>Upload Skin Image</h2>
+                        <p>Click to select or drag and drop an image</p>
+                        <input type="file" id="fileInput" accept=".png,.jpg,.jpeg" hidden>
+                        <button class="btn-primary" onclick="document.getElementById('fileInput').click()">
+                              Choose Image
+                        </button>
+                  </div>
+
+                  <div class="preview-section" id="previewSection" style="display: none;">
+                        <img id="imagePreview" alt="Preview">
+                        <div class="preview-actions">
+                              <button class="btn-secondary" onclick="resetUpload()">Change Image</button>
+                              <button class="btn-primary" onclick="analyzeImage()">Analyze Image</button>
+                        </div>
+                  </div>
+            </div>
+
+            <div class="loader" id="loader" style="display: none;">
+                  <div class="spinner"></div>
+                  <p>Analyzing image...</p>
+            </div>
+
+            <div class="results-section" id="resultsSection" style="display: none;">
+                  <h2>📊 Analysis Results</h2>
+                  <div id="resultsContainer"></div>
+                  <div class="disclaimer">
+                        <strong>⚠️ Medical Disclaimer:</strong> This is an AI prediction tool and should not replace
+                        professional medical diagnosis.
+                        Please consult a qualified dermatologist for accurate diagnosis and treatment.
+                  </div>
+            </div>
+
+            <footer>
+                  <p>Powered by Deep Learning & TensorFlow</p>
+            </footer>
+      </div>
+
+      <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+
+</html>
