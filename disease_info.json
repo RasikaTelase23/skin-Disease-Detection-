@@ -1,0 +1,373 @@
+{
+  "1. Eczema 1677": {
+    "name": "Eczema",
+    "description": "Eczema is a condition that causes itchy, inflamed, and cracked skin. It's a chronic inflammatory skin condition that can develop at any age. The exact cause is unknown but involves a combination of genetic and environmental factors.",
+    "symptoms": [
+      "Intense itching, especially at night",
+      "Red, inflamed skin",
+      "Small raised bumps that may leak fluid when scratched",
+      "Cracked, swollen, sensitive skin",
+      "Raw, swollen skin from scratching",
+      "Dry skin"
+    ],
+    "causes": [
+      "Genetic predisposition",
+      "Immune system dysfunction",
+      "Environmental triggers (allergens, irritants)",
+      "Stress",
+      "Extreme temperatures",
+      "Harsh soaps or detergents"
+    ],
+    "treatment": [
+      "Moisturize regularly with fragrance-free creams",
+      "Use gentle, fragrance-free cleansers",
+      "Apply topical corticosteroids",
+      "Take antihistamines for itching",
+      "Avoid known triggers",
+      "Phototherapy in severe cases"
+    ],
+    "prevention": [
+      "Keep skin well-moisturized",
+      "Use gentle skincare products",
+      "Avoid known triggers",
+      "Manage stress",
+      "Wear soft, breathable clothing",
+      "Maintain healthy humidity levels"
+    ]
+  },
+  "2. Melanoma 15.75k": {
+    "name": "Melanoma",
+    "description": "Melanoma is the most serious type of skin cancer. It develops from melanocytes (pigment-producing cells) and can spread to other parts of the body if not treated early. It's often caused by intense, intermittent sun exposure and severe sunburns.",
+    "symptoms": [
+      "Asymmetrical moles or spots",
+      "Irregular borders on moles",
+      "Multiple colors in one mole (brown, black, tan, red)",
+      "Moles larger than 6mm diameter",
+      "Moles that change in appearance",
+      "Bleeding or oozing moles",
+      "Itching or tenderness in moles"
+    ],
+    "causes": [
+      "Excessive sun exposure (UV radiation)",
+      "Severe sunburns during childhood",
+      "Family history of melanoma",
+      "Fair skin and light hair",
+      "Many moles or atypical moles",
+      "Weakened immune system"
+    ],
+    "treatment": [
+      "Surgical excision of the tumor",
+      "Mohs micrographic surgery for precision",
+      "Immunotherapy (checkpoint inhibitors)",
+      "Targeted therapy for specific mutations",
+      "Chemotherapy",
+      "Radiation therapy",
+      "Lymph node removal if spread occurs"
+    ],
+    "prevention": [
+      "Use broad-spectrum SPF 30+ sunscreen daily",
+      "Avoid sun exposure 10am-4pm",
+      "Wear protective clothing and hats",
+      "Avoid tanning beds",
+      "Check moles regularly for changes",
+      "Get annual skin checks from dermatologist"
+    ]
+  },
+  "3. Atopic Dermatitis - 1.25k": {
+    "name": "Atopic Dermatitis",
+    "description": "Atopic dermatitis (AD) is a chronic inflammatory skin condition characterized by intense itching and sensitive skin. Also known as eczema, it's more common in children but can develop at any age. It often runs in families with allergies or asthma.",
+    "symptoms": [
+      "Intense itching, worse at night",
+      "Red or brownish patches",
+      "Small, raised bumps that may leak fluid",
+      "Cracked, dry, sensitive skin",
+      "Swelling and tenderness",
+      "Raw, swollen skin from scratching",
+      "Skin infections"
+    ],
+    "causes": [
+      "Genetic factors and family history",
+      "Impaired skin barrier function",
+      "Immune system dysregulation",
+      "Environmental triggers",
+      "Allergens and irritants",
+      "Stress"
+    ],
+    "treatment": [
+      "Regular moisturizing with emollients",
+      "Topical corticosteroids or calcineurin inhibitors",
+      "Antihistamines for itching",
+      "Topical PDE4 inhibitors",
+      "Biologic medications (dupilumab)",
+      "Phototherapy",
+      "Antibiotics if infected"
+    ],
+    "prevention": [
+      "Keep skin well-moisturized",
+      "Use fragrance-free products",
+      "Avoid known triggers",
+      "Bathe with lukewarm water",
+      "Use mild, gentle cleansers",
+      "Manage stress levels"
+    ]
+  },
+  "4. Basal Cell Carcinoma (BCC) 3323": {
+    "name": "Basal Cell Carcinoma",
+    "description": "Basal Cell Carcinoma is the most common type of skin cancer, arising from basal cells in the epidermis. It grows slowly and rarely spreads to other parts of the body, but should be treated promptly to prevent scarring.",
+    "symptoms": [
+      "Pearly or waxy bump on skin",
+      "Flat, scar-like lesion",
+      "Bleeding or oozing sore that doesn't heal",
+      "Brown, black, or tan bump",
+      "Lesion with rolled edges and central indentation",
+      "Recurrent sores in same location"
+    ],
+    "causes": [
+      "Prolonged sun exposure",
+      "UV radiation exposure",
+      "History of sunburns",
+      "Fair skin",
+      "Advanced age",
+      "Immunosuppression",
+      "Genetic predisposition"
+    ],
+    "treatment": [
+      "Excisional surgery",
+      "Mohs micrographic surgery",
+      "Curettage and electrodesiccation",
+      "Cryotherapy (freezing)",
+      "Laser therapy",
+      "Topical imiquimod or 5-fluorouracil",
+      "Photodynamic therapy"
+    ],
+    "prevention": [
+      "Use daily SPF 30+ sunscreen",
+      "Wear protective clothing",
+      "Avoid sun exposure 10am-4pm",
+      "Avoid tanning beds",
+      "Get regular skin checks",
+      "Report any new or changing skin lesions"
+    ]
+  },
+  "5. Melanocytic Nevi (NV) - 7970": {
+    "name": "Melanocytic Nevi",
+    "description": "Melanocytic nevi are common benign skin growths (moles) that arise from melanocytes. Most people have several to dozens of nevi. While usually harmless, they should be monitored for changes as some can rarely transform into melanoma.",
+    "symptoms": [
+      "Round or oval brown spots",
+      "Symmetric appearance",
+      "Uniform color",
+      "Well-defined borders",
+      "Flat or slightly raised",
+      "Size less than 6mm diameter",
+      "Usually painless and non-itchy"
+    ],
+    "causes": [
+      "Genetic predisposition",
+      "Sun exposure",
+      "Age",
+      "Hormonal changes",
+      "Pregnancy may cause darkening"
+    ],
+    "treatment": [
+      "Usually no treatment needed",
+      "Surgical removal for cosmetic reasons",
+      "Excision if changes observed",
+      "Laser removal",
+      "Cryotherapy"
+    ],
+    "prevention": [
+      "Protect skin from sun damage",
+      "Use SPF 30+ sunscreen daily",
+      "Wear protective clothing",
+      "Avoid tanning beds",
+      "Monitor nevi for changes (ABCDE rule)",
+      "Get annual skin checks"
+    ]
+  },
+  "6. Benign Keratosis-like Lesions (BKL) 2624": {
+    "name": "Benign Keratosis-like Lesions",
+    "description": "Benign keratosis-like lesions are common, noncancerous skin growths that typically appear as brown, black, or tan wartlike spots on the skin. They're harmless but may be removed for cosmetic reasons.",
+    "symptoms": [
+      "Waxy or scaly appearance",
+      "Brown, black, or tan color",
+      "Slightly raised or flat",
+      "Well-defined borders",
+      "May appear warty or pebbly",
+      "Usually asymptomatic",
+      "Size varies"
+    ],
+    "causes": [
+      "Age-related (seborrheic keratosis)",
+      "Sun exposure",
+      "Genetic predisposition",
+      "Hormonal factors"
+    ],
+    "treatment": [
+      "No treatment if asymptomatic",
+      "Cryotherapy (freezing)",
+      "Curettage",
+      "Electrocautery",
+      "Laser removal",
+      "Surgical excision"
+    ],
+    "prevention": [
+      "Protect skin from excessive sun",
+      "Use SPF 30+ sunscreen",
+      "Wear protective clothing",
+      "Regular skin self-examination",
+      "Professional skin checks"
+    ]
+  },
+  "7. Psoriasis pictures Lichen Planus and related diseases - 2k": {
+    "name": "Psoriasis and Lichen Planus",
+    "description": "Psoriasis is a chronic autoimmune inflammatory skin condition characterized by thick, scaly, red patches. Lichen planus is an inflammatory condition affecting skin and mucous membranes. Both are chronic but manageable.",
+    "symptoms": [
+      "Red, inflamed patches of skin",
+      "White or silvery scales",
+      "Thickened or ridged nails",
+      "Purple, flat-topped bumps (lichen planus)",
+      "Joint pain and swelling",
+      "Mild to severe itching",
+      "Burning or soreness"
+    ],
+    "causes": [
+      "Genetic predisposition",
+      "Immune system dysfunction",
+      "Stress",
+      "Infections",
+      "Certain medications",
+      "Skin trauma",
+      "Unknown causes for lichen planus"
+    ],
+    "treatment": [
+      "Topical corticosteroids",
+      "Topical retinoids",
+      "Calcineurin inhibitors",
+      "Systemic medications (methotrexate)",
+      "Biologic drugs (TNF inhibitors)",
+      "Phototherapy (UVB or PUVA)",
+      "Lifestyle modifications"
+    ],
+    "prevention": [
+      "Stress management",
+      "Avoid skin trauma",
+      "Moisturize regularly",
+      "Avoid harsh soaps",
+      "Maintain healthy lifestyle",
+      "Avoid known triggers"
+    ]
+  },
+  "8. Seborrheic Keratoses and other Benign Tumors - 1.8k": {
+    "name": "Seborrheic Keratosis",
+    "description": "Seborrheic keratosis is a common, benign skin growth that typically appears as a brown, black, or tan wartlike spot. More common with age, these growths are harmless but can be removed if irritated or for cosmetic reasons.",
+    "symptoms": [
+      "Waxy or scaly surface",
+      "Brown, black, or tan color",
+      "Well-defined borders",
+      "Slightly raised appearance",
+      "Pebbly texture",
+      "Usually asymptomatic",
+      "May itch or become irritated if rubbed"
+    ],
+    "causes": [
+      "Age (common after age 50)",
+      "Genetics",
+      "Sun exposure",
+      "Skin type",
+      "Unknown exact mechanism"
+    ],
+    "treatment": [
+      "No treatment if asymptomatic",
+      "Cryotherapy (freezing)",
+      "Curettage and electrodesiccation",
+      "Laser therapy",
+      "Surgical excision",
+      "Chemical peels"
+    ],
+    "prevention": [
+      "Sun protection with SPF 30+",
+      "Protective clothing",
+      "Avoid excessive sun exposure",
+      "Regular skin checks",
+      "Monitor for changes"
+    ]
+  },
+  "9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k": {
+    "name": "Fungal Infections (Tinea, Ringworm, Candidiasis)",
+    "description": "Fungal skin infections are caused by dermatophytes or yeasts. Common types include tinea pedis (athlete's foot), tinea corporis (ringworm), and candidiasis. These are contagious and thrive in warm, moist environments.",
+    "symptoms": [
+      "Circular rash with raised red edges",
+      "Itching or burning sensation",
+      "Scaling or peeling skin",
+      "Red, inflamed patches",
+      "Blistering or cracking",
+      "Discoloration of skin",
+      "Unpleasant odor in severe cases"
+    ],
+    "causes": [
+      "Dermatophyte fungi infection",
+      "Yeast infection (Candida)",
+      "Warm, moist environments",
+      "Poor hygiene",
+      "Direct contact with infected person",
+      "Immunosuppression",
+      "Antibiotic use"
+    ],
+    "treatment": [
+      "Topical antifungal creams or powders",
+      "Oral antifungal medications",
+      "Azoles (fluconazole, itraconazole)",
+      "Allylamines (terbinafine)",
+      "Keep area clean and dry",
+      "Avoid scratching"
+    ],
+    "prevention": [
+      "Keep skin clean and dry",
+      "Avoid warm, moist environments",
+      "Wear breathable clothing",
+      "Use antifungal powder in high-risk areas",
+      "Don't share towels or personal items",
+      "Avoid direct contact with infected persons",
+      "Wear shoes in public areas"
+    ]
+  },
+  "10. Warts Molluscum and other Viral Infections - 2103": {
+    "name": "Warts, Molluscum, and Viral Infections",
+    "description": "Viral skin infections include common warts, genital warts, molluscum contagiosum, and other viral skin conditions. These are caused by human papillomavirus (HPV) and molluscipoxvirus. Most are contagious and can spread through direct contact.",
+    "symptoms": [
+      "Raised, bumpy growths",
+      "Flesh-colored, brown, or reddish bumps",
+      "Rough texture",
+      "Central dimple (molluscum contagiosum)",
+      "Itching or tenderness",
+      "Clusters of lesions",
+      "May have dark specks in center (warts)"
+    ],
+    "causes": [
+      "Human papillomavirus (HPV)",
+      "Molluscipoxvirus",
+      "Direct skin-to-skin contact",
+      "Contaminated surfaces",
+      "Sexual contact (genital warts)",
+      "Weak immune system"
+    ],
+    "treatment": [
+      "Topical salicylic acid",
+      "Cryotherapy (liquid nitrogen freezing)",
+      "Laser therapy",
+      "Electrocautery",
+      "Imiquimod cream",
+      "Surgical removal",
+      "HPV vaccine for prevention"
+    ],
+    "prevention": [
+      "Avoid direct contact with warts",
+      "Keep hands clean",
+      "Don't share personal items",
+      "HPV vaccination",
+      "Wear shoes in public areas",
+      "Avoid picking at skin lesions",
+      "Safe sexual practices"
+    ]
+  }
+}
